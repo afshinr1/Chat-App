@@ -1,0 +1,13 @@
+.input-form {
+  display: flex;
+}
+
+.message-input {
+  border: 2px solid black;
+  padding-left: 0.5rem;
+  flex: 0.9;
+  font-size: 1rem;
+}
+.message-button {
+  flex: 0.1;
+}
